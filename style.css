@@ -1,0 +1,66 @@
+#main{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: lightgray;
+    margin-top: 25px;
+}
+
+#title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 25px;
+}
+
+#img-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    width: 95%;
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+}
+
+#img-caption{
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+
+}
+
+#tribute-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    font-size: 16px;
+    padding: 25px;
+}
+
+#tribute-link{
+}
+
+li {
+    padding-top: 20px;
+}
+
+q {
+    width:90%;
+}
+
+a{
+    font-size: 20px;
+    font-weight: 900;
+}
+
+footer {
+    padding: 30px;
+}
